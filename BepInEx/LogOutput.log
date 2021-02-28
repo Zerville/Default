@@ -1,0 +1,791 @@
+﻿[Message:   BepInEx] BepInEx 5.4.7.0 - valheim
+[Info   :   BepInEx] Running under Unity v2019.4.20.7197120
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Warning:   BepInEx] Skipping type [ValheimInventorySlots.FixGuiFrame] because its version is invalid.
+[Info   :   BepInEx] 16 plugins to load
+[Info   :   BepInEx] Loading [Custom Raids 1.0.1]
+[Info   :Custom Raids] Loading configurations...
+[Info   : Unity Log] Loading general configuration from C:\Users\myspy\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Default\BepInEx\config\custom_raids.cfg.
+[Info   : Unity Log] Loading raid event configurations from C:\Users\myspy\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Default\BepInEx\config\custom_raids.raids.cfg.
+[Info   : Unity Log] Loading raid event configurations from C:\Users\myspy\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Default\BepInEx\config\custom_raids.supplemental.deathsquitoseason.cfg.
+[Info   : Unity Log] Loading raid event configurations from C:\Users\myspy\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Default\BepInEx\config\custom_raids.supplemental.ragnarok.cfg.
+[Info   :   BepInEx] Loading [Sell That! 1.0.1]
+[Info   :Sell That!] Loading configurations...
+[Info   :Sell That!] Configurations loaded.
+[Info   :   BepInEx] Loading [NoDeathPenalty 1.0.0]
+[Info   :   BepInEx] Loading [Crafting with Containers 1.0.4]
+[Info   :   BepInEx] Loading [UnrestrictedPortals 1.0.0.0]
+[Info   :   BepInEx] Loading [LeaveMyBaseALONE 1.0.0.8]
+[Info   :LeaveMyBaseALONE] Leave My Base ALONE: waiting for world to load
+[Info   :   BepInEx] Loading [TrialsofOdin 1.0.0.0]
+[Message:TrialsofOdin] Trials of Odin started:
+[Info   :   BepInEx] Loading [ExploreTogether 1.1.0.0]
+[Info   :   BepInEx] Loading [BetterUI 1.3.1]
+[Info   :   BepInEx] Loading [CraftingStationRange 1.0.3]
+[Info   :CraftingStationRange] CraftingStationRange loaded.
+[Info   :   BepInEx] Loading [Gravekeeper 1.2.0]
+[Info   :Gravekeeper] Equipment will remain equipped.
+[Info   :Gravekeeper] Gravekeeper loaded.
+[Info   :   BepInEx] Loading [AnyPortal 1.0.2]
+[Info   : Unity Log] Checking for file C:\Users\myspy\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Default\BepInEx\scripts\anyportal
+[Info   : Unity Log] Checking for file C:\Users\myspy\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Default\BepInEx\plugins\AnyPortal\anyportal
+[Info   : Unity Log] Checking for file C:\Users\myspy\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Default\BepInEx\plugins\sweetgiorni-AnyPortal\anyportal
+[Info   : Unity Log] Found AssetBundle at C:\Users\myspy\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Default\BepInEx\plugins\sweetgiorni-AnyPortal\anyportal
+[Info   :   BepInEx] Loading [Equipment and Quick Slots 1.0.3]
+[Info   :   BepInEx] Loading [缩短冷却时间 1.0]
+[Info   :   BepInEx] Loading [More Slots 1.1.3]
+[Info   :Gravekeeper] Equipment will remain equipped.
+[Info   :More Slots] More Slots mod - Created by Fang86
+[Info   :More Slots] Gravekeeper not found
+[Info   :   BepInEx] Loading [Skillful 0.3]
+[Message:   BepInEx] Chainloader startup complete
+[Info   : Unity Log] 02/28/2021 18:39:06: Starting to load scene:start
+
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+[Info   : Unity Log] 02/28/2021 18:39:17: Initializing world generator seed: ( 0 )   menu:True  worldgen version:1
+
+[Info   : Unity Log] 02/28/2021 18:39:17: Using mountain distance: 1000
+
+[Info   : Unity Log] 02/28/2021 18:39:17: Render threading mode:MultiThreaded
+
+[Info   : Unity Log] 02/28/2021 18:39:17: Using environment steamid 892970
+
+[Info   : Unity Log] 02/28/2021 18:39:17: Using steam APPID:892970
+
+[Info   : Unity Log] 02/28/2021 18:39:17: Authentication:k_ESteamNetworkingAvailability_Attempting
+
+[Info   : Unity Log] 02/28/2021 18:39:17: Steam initialized, persona:MrStoneface
+
+[Warning: Unity Log] 02/28/2021 18:39:17: Missing audio clip in music respawn
+
+[Info   : Unity Log] 02/28/2021 18:39:17: Checking for installed DLCs
+
+[Info   : Unity Log] 02/28/2021 18:39:17: DLC:beta installed:False
+
+[Info   : Unity Log] 02/28/2021 18:39:18: Loaded localization English
+
+[Info   : Unity Log] 02/28/2021 18:39:18: Loaded localization English
+
+[Info   : Unity Log] 02/28/2021 18:39:18: ARG 0 C:\Program Files (x86)\Steam\steamapps\common\Valheim\valheim.exe
+
+[Info   : Unity Log] 02/28/2021 18:39:18: ARG 1 --doorstop-enable
+
+[Info   : Unity Log] 02/28/2021 18:39:18: ARG 2 true
+
+[Info   : Unity Log] 02/28/2021 18:39:18: ARG 3 --doorstop-target
+
+[Info   : Unity Log] 02/28/2021 18:39:18: ARG 4 C:\Users\myspy\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Default\BepInEx\core\BepInEx.Preloader.dll
+
+[Info   : Unity Log] 02/28/2021 18:39:21: UI Group status changed Menu = True
+
+[Info   : Unity Log] 02/28/2021 18:40:05: show character selection
+
+[Info   : Unity Log] 02/28/2021 18:41:29: Set hair 1
+
+[Info   : Unity Log] 02/28/2021 18:41:29: Set hair 2
+
+[Info   : Unity Log] 02/28/2021 18:41:34: UI Group status changed SelectCharacter = True
+
+[Info   : Unity Log] 02/28/2021 18:41:39: OnCharacterStart
+
+[Info   : Unity Log] 02/28/2021 18:42:06: UI Group status changed Panel = False
+
+[Info   : Unity Log] 02/28/2021 18:46:36: UI Group status changed Panel = True
+
+[Info   : Unity Log] 02/28/2021 18:46:43: Loading player profile mrbean
+
+[Info   : Unity Log] 02/28/2021 18:46:43: Zonesystem Awake 26406
+
+[Info   : Unity Log] 02/28/2021 18:46:43: DungeonDB Awake 26406
+
+[Info   : Unity Log] 02/28/2021 18:46:43: Steam initialized, persona:MrStoneface
+
+[Info   : Unity Log] 02/28/2021 18:46:43: Initializing world generator seed:Helloworld ( -95342674 )   menu:False  worldgen version:1
+
+[Info   : Unity Log] 02/28/2021 18:46:43: Using mountain distance: 1000
+
+[Info   : Unity Log] 02/28/2021 18:46:43: Found 505 mountain points
+
+[Info   : Unity Log] 02/28/2021 18:46:43: Remaining mountains:69
+
+[Info   : Unity Log] 02/28/2021 18:46:43: Calc time 19,3774 ms
+
+[Info   : Unity Log] 02/28/2021 18:46:43: Found 8324 lake points
+
+[Info   : Unity Log] 02/28/2021 18:46:45: Remaining lakes:131
+
+[Info   : Unity Log] 02/28/2021 18:46:45: Calc time 1808,4389 ms
+
+[Info   : Unity Log] 02/28/2021 18:46:45: Rivers:190
+
+[Info   : Unity Log] 02/28/2021 18:46:46: River buckets 17948
+
+[Info   : Unity Log] 02/28/2021 18:46:46: River render time 404,8576 ms
+
+[Info   : Unity Log] 02/28/2021 18:46:46: River Calc time 422,7732 ms
+
+[Info   : Unity Log] 02/28/2021 18:46:47: River buckets 26282
+
+[Info   : Unity Log] 02/28/2021 18:46:47: River render time 483,5575 ms
+
+[Info   : Unity Log] 02/28/2021 18:46:47: Placed 1915 streams
+
+[Info   : Unity Log] 02/28/2021 18:46:47: Stream Calc time 1115,6922 ms
+
+[Info   : Unity Log] 02/28/2021 18:46:47: Load world Stronghold
+
+[Info   : Unity Log] 02/28/2021 18:46:47:   missing world.dat
+
+[Info   : Unity Log] 02/28/2021 18:46:47: Audioman already exist, destroying self
+
+[Info   : Unity Log] 02/28/2021 18:46:47: Checking for installed DLCs
+
+[Info   : Unity Log] 02/28/2021 18:46:47: DLC:beta installed:False
+
+[Info   : Unity Log] 02/28/2021 18:46:50: Zonesystem Start 26406
+
+[Info   : Unity Log] 02/28/2021 18:46:51: Generating locations
+
+[Info   : Unity Log] 02/28/2021 18:46:51: Checking for location duplicates
+
+[Warning: Unity Log] 02/28/2021 18:46:57: Failed to place all FireHole, placed 156 out of 200
+
+[Warning: Unity Log] 02/28/2021 18:47:26: Failed to place all Runestone_Mountains, placed 90 out of 100
+
+[Info   : Unity Log] 02/28/2021 18:47:27:  Done generating locations, duration:35826,0306 ms
+
+[Info   : Unity Log] 02/28/2021 18:47:27: DungeonDB Start 26406
+
+[Info   : Unity Log] 02/28/2021 18:47:27: Starting respawn
+
+[Info   : Unity Log] 02/28/2021 18:47:37: tip:$loadscreen_tip01
+
+[Info   : Unity Log] 02/28/2021 18:47:38: Force generaeting hmap (0.0, 0.0, 0.0)
+
+[Info   : Unity Log] 02/28/2021 18:47:38: Placed locations in zone 0,0  duration 40,9622 ms
+
+[Info   : Unity Log] 02/28/2021 18:47:38: Queue unlock msg:$msg_newitem:$item_torch
+
+[Info   : Unity Log] 02/28/2021 18:47:38: Queue unlock msg:$msg_newitem:$item_chest_rags
+
+[Info   : Unity Log] 02/28/2021 18:47:38: Setting up valkyrie 
+
+[Info   : Unity Log] 02/28/2021 18:47:38: Show intro 26421
+
+[Info   : Unity Log] 02/28/2021 18:47:38: Show text YOU DIED:Long ago, the Allfather Odin united the worlds. He threw down his foes and cast them into the tenth world, then split the boughs that held their prison to the World-Tree, and left it to drift unanchored, a place of exile…
+
+
+
+For centuries, this world slumbered uneasily. But it did not die... As glacial ages passed, kingdoms rose and fell out of sight of the gods.
+
+
+
+When Odin heard his enemies were growing once again in strength, he looked to Midgard and sent his Valkyries to scour the battlefields for the greatest of their warriors. Dead to the world, they would be born again…
+
+
+
+…in VALHEIM!
+
+[Info   : Unity Log] 02/28/2021 18:47:38: World pos (347.1, 190.0, -719.1)   (347.4, 189.4, -719.2)
+
+[Info   : Unity Log] 02/28/2021 18:47:38: Minimap: Adding unique location (-1.9, 45.0, 0.8)
+
+[Info   : Unity Log] 02/28/2021 18:47:40: Placed locations in zone 2,-15  duration 1,9984 ms
+
+[Info   : Unity Log] 02/28/2021 18:47:41: Placed locations in zone 9,-9  duration 42,9616 ms
+
+[Info   : Unity Log] 02/28/2021 18:47:42: Placed locations in zone 4,-15  duration 0,9991 ms
+
+[Info   : Unity Log] 02/28/2021 18:47:43: Spawned Fish3 x 2
+
+[Info   : Unity Log] 02/28/2021 18:47:43: Spawned Fish3 x 1
+
+[Info   : Unity Log] 02/28/2021 18:47:44: Placed locations in zone 3,-15  duration 0,9987 ms
+
+[Info   : Unity Log] 02/28/2021 18:47:44: Placed locations in zone 5,-15  duration 1,998 ms
+
+[Info   : Unity Log] 02/28/2021 18:47:44: Placed locations in zone 2,-14  duration 46,9571 ms
+
+[Info   : Unity Log] 02/28/2021 18:47:45: Placed locations in zone 2,-13  duration 5,9945 ms
+
+[Info   : Unity Log] 02/28/2021 18:47:46: Placed locations in zone 9,-13  duration 50,953 ms
+
+[Info   : Unity Log] 02/28/2021 18:47:47: Loading dungeon
+
+[Info   : Unity Log] 02/28/2021 18:47:47: Dungeon loaded 0
+
+[Info   : Unity Log] 02/28/2021 18:47:47: Dungeon load time 0,9989 ms
+
+[Info   : Unity Log] 02/28/2021 18:47:47: Available rooms:18
+
+[Info   : Unity Log] 02/28/2021 18:47:47: To place:40
+
+[Info   : Unity Log] 02/28/2021 18:47:47: Connections 4
+
+[Info   : Unity Log] 02/28/2021 18:47:47: All required rooms have been placed, stopping generation
+
+[Info   : Unity Log] 02/28/2021 18:47:47: placed 11 doors
+
+[Info   : Unity Log] 02/28/2021 18:47:47: Placed 37 rooms
+
+[Info   : Unity Log] 02/28/2021 18:47:47: Placed locations in zone 9,-8  duration 72,9331 ms
+
+[Info   : Unity Log] 02/28/2021 18:48:28: Placed locations in zone 6,-4  duration 0 ms
+
+[Info   : Unity Log] 02/28/2021 18:48:29: Spawned Fish3 x 2
+
+[Info   : Unity Log] 02/28/2021 18:48:31: Placed locations in zone 1,-3  duration 13,9875 ms
+
+[Info   : Unity Log] 02/28/2021 18:48:31: Placed locations in zone 3,-3  duration 8,9916 ms
+
+[Info   : Unity Log] 02/28/2021 18:48:31: Placed locations in zone 4,-3  duration 13,9877 ms
+
+[Info   : Unity Log] 02/28/2021 18:48:31: Placed locations in zone 6,-3  duration 3,9963 ms
+
+[Info   : Unity Log] 02/28/2021 18:48:32: Spawned Seagal x 2
+
+[Info   : Unity Log] 02/28/2021 18:48:32: Spawned Seagal x 1
+
+[Info   : Unity Log] 02/28/2021 18:48:32: Spawned Fish2 x 3
+
+[Info   : Unity Log] 02/28/2021 18:48:32: Spawned Fish3 x 1
+
+[Info   : Unity Log] 02/28/2021 18:48:34: Placed locations in zone 4,-2  duration 7,993 ms
+
+[Info   : Unity Log] 02/28/2021 18:48:34: Placed locations in zone 5,-2  duration 15,986 ms
+
+[Info   :TrialsofOdin] Mob 8884 hasn't been buffed.
+[Info   :TrialsofOdin] Not Boss, Mob: $enemy_neck 8884 Level: 2
+[Info   :TrialsofOdin] Mob: $enemy_neck 8884 has been buffed.
+[Info   :TrialsofOdin] Mob 8885 hasn't been buffed.
+[Info   :TrialsofOdin] Not Boss, Mob: $enemy_neck 8885 Level: 2
+[Info   :TrialsofOdin] Mob: $enemy_neck 8885 has been buffed.
+[Info   :TrialsofOdin] Mob 8886 hasn't been buffed.
+[Info   :TrialsofOdin] Not Boss, Mob: $enemy_neck 8886 Level: 5
+[Info   :TrialsofOdin] Mob: $enemy_neck 8886 has been buffed.
+[Info   : Unity Log] 02/28/2021 18:48:36: Spawned Neck x 3
+
+[Info   : Unity Log] 02/28/2021 18:48:36: Spawned Seagal x 2
+
+[Info   : Unity Log] 02/28/2021 18:48:36: Spawned Fish1 x 6
+
+[Info   : Unity Log] 02/28/2021 18:48:36: Spawned Fish2 x 3
+
+[Info   : Unity Log] 02/28/2021 18:48:37: Placed locations in zone 2,-1  duration 2,9969 ms
+
+[Info   : Unity Log] 02/28/2021 18:48:37: Placed locations in zone 4,-1  duration 0 ms
+
+[Info   : Unity Log] 02/28/2021 18:48:39: Spawned Boar x 0
+
+[Info   :TrialsofOdin] Mob 10168 hasn't been buffed.
+[Info   :TrialsofOdin] Not Boss, Mob: $enemy_neck 10168 Level: 8
+[Info   :TrialsofOdin] Mob: $enemy_neck 10168 has been buffed.
+[Info   :TrialsofOdin] Mob 10169 hasn't been buffed.
+[Info   :TrialsofOdin] Not Boss, Mob: $enemy_neck 10169 Level: 8
+[Info   :TrialsofOdin] Mob: $enemy_neck 10169 has been buffed.
+[Info   :TrialsofOdin] Mob 10170 hasn't been buffed.
+[Info   :TrialsofOdin] Not Boss, Mob: $enemy_neck 10170 Level: 8
+[Info   :TrialsofOdin] Mob: $enemy_neck 10170 has been buffed.
+[Info   : Unity Log] 02/28/2021 18:48:39: Spawned Neck x 3
+
+[Info   :TrialsofOdin] Mob 10171 hasn't been buffed.
+[Info   :TrialsofOdin] Not Boss, Mob: $enemy_neck 10171 Level: 8
+[Info   :TrialsofOdin] Mob: $enemy_neck 10171 has been buffed.
+[Info   :TrialsofOdin] Mob 10172 hasn't been buffed.
+[Info   :TrialsofOdin] Not Boss, Mob: $enemy_neck 10172 Level: 8
+[Info   :TrialsofOdin] Mob: $enemy_neck 10172 has been buffed.
+[Info   :TrialsofOdin] Mob 10173 hasn't been buffed.
+[Info   :TrialsofOdin] Not Boss, Mob: $enemy_neck 10173 Level: 3
+[Info   :TrialsofOdin] Mob: $enemy_neck 10173 has been buffed.
+[Info   : Unity Log] 02/28/2021 18:48:39: Spawned Neck x 3
+
+[Info   : Unity Log] 02/28/2021 18:48:39: Spawned Fish3 x 1
+
+[Info   : Unity Log] 02/28/2021 18:48:39: Spawned Fish3 x 1
+
+[Info   :TrialsofOdin] Mob 10176 hasn't been buffed.
+[Info   :TrialsofOdin] Not Boss, Mob: $enemy_greyling 10176 Level: 3
+[Info   :TrialsofOdin] Mob: $enemy_greyling 10176 has been buffed.
+[Info   : Unity Log] 02/28/2021 18:48:39: Spawned Greyling x 1
+
+[Info   : Unity Log] 02/28/2021 18:48:40: Placed locations in zone 2,0  duration 0,9991 ms
+
+[Info   : Unity Log] 02/28/2021 18:48:41: Placed locations in zone 7,0  duration 3,9968 ms
+
+[Info   : Unity Log] 02/28/2021 18:48:41: Placed locations in zone 9,0  duration 4,9959 ms
+
+[Info   :TrialsofOdin] Mob 11335 hasn't been buffed.
+[Info   :TrialsofOdin] Not Boss, Mob: $enemy_deer 11335 Level: 8
+[Info   :TrialsofOdin] Mob: $enemy_deer 11335 has been buffed.
+[Info   : Unity Log] 02/28/2021 18:48:43: Spawned Deer x 1
+
+[Info   :TrialsofOdin] Mob 11336 hasn't been buffed.
+[Info   :TrialsofOdin] Not Boss, Mob: $enemy_boar 11336 Level: 8
+[Info   :TrialsofOdin] Mob: $enemy_boar 11336 has been buffed.
+[Info   : Unity Log] 02/28/2021 18:48:43: Spawned Boar x 1
+
+[Info   : Unity Log] 02/28/2021 18:48:44: Placed locations in zone 3,1  duration 9,992 ms
+
+[Info   : Unity Log] 02/28/2021 18:48:44: Placed locations in zone 5,1  duration 0 ms
+
+[Info   : Unity Log] 02/28/2021 18:48:44: Loading dungeon
+
+[Info   : Unity Log] 02/28/2021 18:48:44: Dungeon loaded 0
+
+[Info   : Unity Log] 02/28/2021 18:48:44: Dungeon load time 1,0001 ms
+
+[Info   : Unity Log] 02/28/2021 18:48:44: Available rooms:13
+
+[Info   : Unity Log] 02/28/2021 18:48:44: To place:30
+
+[Info   : Unity Log] 02/28/2021 18:48:44: Placed 8 rooms
+
+[Info   : Unity Log] 02/28/2021 18:48:44: Placed locations in zone 8,1  duration 126,8841 ms
+
+[Info   : Unity Log] 02/28/2021 18:48:45: Starting descent
+
+[Info   : Unity Log] 02/28/2021 18:48:48: Placed locations in zone 0,-4  duration 5,9943 ms
+
+[Info   : Unity Log] 02/28/2021 18:48:48: Placed locations in zone 0,-3  duration 3,9967 ms
+
+[Info   : Unity Log] 02/28/2021 18:48:49: Placed locations in zone 0,1  duration 5,9943 ms
+
+[Info   : Unity Log] 02/28/2021 18:48:49: Placed locations in zone 0,2  duration 0 ms
+
+[Info   :TrialsofOdin] Mob 15548 hasn't been buffed.
+[Info   :TrialsofOdin] Not Boss, Mob: $enemy_deer 15548 Level: 5
+[Info   :TrialsofOdin] Mob: $enemy_deer 15548 has been buffed.
+[Info   :TrialsofOdin] Mob 15549 hasn't been buffed.
+[Info   :TrialsofOdin] Not Boss, Mob: $enemy_deer 15549 Level: 5
+[Info   :TrialsofOdin] Mob: $enemy_deer 15549 has been buffed.
+[Info   : Unity Log] 02/28/2021 18:48:50: Spawned Deer x 2
+
+[Info   :TrialsofOdin] Mob 15550 hasn't been buffed.
+[Info   :TrialsofOdin] Not Boss, Mob: $enemy_deer 15550 Level: 5
+[Info   :TrialsofOdin] Mob: $enemy_deer 15550 has been buffed.
+[Info   :TrialsofOdin] Mob 15551 hasn't been buffed.
+[Info   :TrialsofOdin] Not Boss, Mob: $enemy_deer 15551 Level: 5
+[Info   :TrialsofOdin] Mob: $enemy_deer 15551 has been buffed.
+[Info   : Unity Log] 02/28/2021 18:48:50: Spawned Deer x 2
+
+[Info   :TrialsofOdin] Mob 15552 hasn't been buffed.
+[Info   :TrialsofOdin] Not Boss, Mob: $enemy_boar 15552 Level: 5
+[Info   :TrialsofOdin] Mob: $enemy_boar 15552 has been buffed.
+[Info   :TrialsofOdin] Mob 15553 hasn't been buffed.
+[Info   :TrialsofOdin] Not Boss, Mob: $enemy_boar 15553 Level: 5
+[Info   :TrialsofOdin] Mob: $enemy_boar 15553 has been buffed.
+[Info   : Unity Log] 02/28/2021 18:48:50: Spawned Boar x 2
+
+[Info   :TrialsofOdin] Mob 15554 hasn't been buffed.
+[Info   :TrialsofOdin] Not Boss, Mob: $enemy_neck 15554 Level: 5
+[Info   :TrialsofOdin] Mob: $enemy_neck 15554 has been buffed.
+[Info   : Unity Log] 02/28/2021 18:48:50: Spawned Neck x 1
+
+[Info   :TrialsofOdin] Mob 15555 hasn't been buffed.
+[Info   :TrialsofOdin] Not Boss, Mob: $enemy_neck 15555 Level: 5
+[Info   :TrialsofOdin] Mob: $enemy_neck 15555 has been buffed.
+[Info   :TrialsofOdin] Mob 15556 hasn't been buffed.
+[Info   :TrialsofOdin] Not Boss, Mob: $enemy_neck 15556 Level: 5
+[Info   :TrialsofOdin] Mob: $enemy_neck 15556 has been buffed.
+[Info   : Unity Log] 02/28/2021 18:48:50: Spawned Neck x 2
+
+[Info   : Unity Log] 02/28/2021 18:48:50: Spawned Seagal x 1
+
+[Info   : Unity Log] 02/28/2021 18:48:50: Spawned Fish1 x 4
+
+[Info   : Unity Log] 02/28/2021 18:48:50: Spawned Fish2 x 4
+
+[Info   : Unity Log] 02/28/2021 18:48:54: Placed locations in zone 2,3  duration 9,9914 ms
+
+[Info   : Unity Log] 02/28/2021 18:48:54: Placed locations in zone 3,3  duration 0 ms
+
+[Info   : Unity Log] 02/28/2021 18:48:54: Placed locations in zone 4,3  duration 3,9956 ms
+
+[Info   : Unity Log] 02/28/2021 18:48:56: Force generaeting hmap (0.0, 0.0, 0.0)
+
+[Info   : Unity Log] 02/28/2021 18:48:56: Force generaeting hmap (0.0, 0.0, 64.0)
+
+[Info   : Unity Log] 02/28/2021 18:48:56: Placed locations in zone -2,-5  duration 12,9876 ms
+
+[Info   : Unity Log] 02/28/2021 18:48:56: Placed locations in zone -2,-1  duration 4,9948 ms
+
+[Info   : Unity Log] 02/28/2021 18:48:56: Placed locations in zone -2,0  duration 3,9966 ms
+
+[Info   : Unity Log] 02/28/2021 18:48:56: Placed locations in zone -2,1  duration 11,9892 ms
+
+[Info   :TrialsofOdin] Mob 20609 hasn't been buffed.
+[Info   :TrialsofOdin] Not Boss, Mob: $enemy_boar 20609 Level: 2
+[Info   :TrialsofOdin] Mob: $enemy_boar 20609 has been buffed.
+[Info   : Unity Log] 02/28/2021 18:48:57: Spawned Boar x 1
+
+[Info   :TrialsofOdin] Mob 20610 hasn't been buffed.
+[Info   :TrialsofOdin] Not Boss, Mob: $enemy_neck 20610 Level: 2
+[Info   :TrialsofOdin] Mob: $enemy_neck 20610 has been buffed.
+[Info   : Unity Log] 02/28/2021 18:48:57: Spawned Neck x 1
+
+[Info   :TrialsofOdin] Mob 20611 hasn't been buffed.
+[Info   :TrialsofOdin] Not Boss, Mob: $enemy_greyling 20611 Level: 2
+[Info   :TrialsofOdin] Mob: $enemy_greyling 20611 has been buffed.
+[Info   : Unity Log] 02/28/2021 18:48:57: Spawned Greyling x 1
+
+[Info   : Unity Log] 02/28/2021 18:48:57: Placed locations in zone -2,2  duration 0 ms
+
+[Info   : Unity Log] 02/28/2021 18:48:57: Placed locations in zone -2,3  duration 11,9887 ms
+
+[Info   : Unity Log] 02/28/2021 18:49:00: Placed locations in zone -3,-2  duration 0 ms
+
+[Info   : Unity Log] 02/28/2021 18:49:00: Placed locations in zone -3,-1  duration 6,9938 ms
+
+[Info   : Unity Log] 02/28/2021 18:49:00: Placed locations in zone -3,0  duration 0,9989 ms
+
+[Info   : Unity Log] 02/28/2021 18:49:00: Placed locations in zone -3,1  duration 0,9987 ms
+
+[Info   : Unity Log] 02/28/2021 18:49:01: Placed locations in zone -3,3  duration 15,9838 ms
+
+[Info   : Unity Log] 02/28/2021 18:49:01: Placed locations in zone -3,4  duration 0 ms
+
+[Info   : Unity Log] 02/28/2021 18:49:01: Placed locations in zone -2,4  duration 4,9954 ms
+
+[Info   : Unity Log] 02/28/2021 18:49:02: Placed locations in zone 0,4  duration 20,9808 ms
+
+[Info   : Unity Log] 02/28/2021 18:49:02: Placed locations in zone 1,4  duration 0 ms
+
+[Info   : Unity Log] 02/28/2021 18:49:02: Placed locations in zone 2,4  duration 4,9954 ms
+
+[Info   :TrialsofOdin] Mob 24084 hasn't been buffed.
+[Info   :TrialsofOdin] Not Boss, Mob: $enemy_deer 24084 Level: 8
+[Info   :TrialsofOdin] Mob: $enemy_deer 24084 has been buffed.
+[Info   :TrialsofOdin] Mob 24085 hasn't been buffed.
+[Info   :TrialsofOdin] Not Boss, Mob: $enemy_deer 24085 Level: 8
+[Info   :TrialsofOdin] Mob: $enemy_deer 24085 has been buffed.
+[Info   : Unity Log] 02/28/2021 18:49:02: Spawned Deer x 2
+
+[Info   :TrialsofOdin] Mob 24086 hasn't been buffed.
+[Info   :TrialsofOdin] Not Boss, Mob: $enemy_boar 24086 Level: 8
+[Info   :TrialsofOdin] Mob: $enemy_boar 24086 has been buffed.
+[Info   :TrialsofOdin] Mob 24087 hasn't been buffed.
+[Info   :TrialsofOdin] Not Boss, Mob: $enemy_boar 24087 Level: 8
+[Info   :TrialsofOdin] Mob: $enemy_boar 24087 has been buffed.
+[Info   : Unity Log] 02/28/2021 18:49:02: Spawned Boar x 2
+
+[Info   :TrialsofOdin] Mob 24088 hasn't been buffed.
+[Info   :TrialsofOdin] Not Boss, Mob: $enemy_boar 24088 Level: 8
+[Info   :TrialsofOdin] Mob: $enemy_boar 24088 has been buffed.
+[Info   :TrialsofOdin] Mob 24089 hasn't been buffed.
+[Info   :TrialsofOdin] Not Boss, Mob: $enemy_boar 24089 Level: 8
+[Info   :TrialsofOdin] Mob: $enemy_boar 24089 has been buffed.
+[Info   : Unity Log] 02/28/2021 18:49:02: Spawned Boar x 2
+
+[Info   :TrialsofOdin] Mob 24090 hasn't been buffed.
+[Info   :TrialsofOdin] Not Boss, Mob: $enemy_neck 24090 Level: 8
+[Info   :TrialsofOdin] Mob: $enemy_neck 24090 has been buffed.
+[Info   :TrialsofOdin] Mob 24091 hasn't been buffed.
+[Info   :TrialsofOdin] Not Boss, Mob: $enemy_neck 24091 Level: 8
+[Info   :TrialsofOdin] Mob: $enemy_neck 24091 has been buffed.
+[Info   : Unity Log] 02/28/2021 18:49:02: Spawned Neck x 2
+
+[Info   :TrialsofOdin] Mob 24092 hasn't been buffed.
+[Info   :TrialsofOdin] Not Boss, Mob: $enemy_neck 24092 Level: 8
+[Info   :TrialsofOdin] Mob: $enemy_neck 24092 has been buffed.
+[Info   :TrialsofOdin] Mob 24093 hasn't been buffed.
+[Info   :TrialsofOdin] Not Boss, Mob: $enemy_neck 24093 Level: 5
+[Info   :TrialsofOdin] Mob: $enemy_neck 24093 has been buffed.
+[Info   :TrialsofOdin] Mob 24094 hasn't been buffed.
+[Info   :TrialsofOdin] Not Boss, Mob: $enemy_neck 24094 Level: 5
+[Info   :TrialsofOdin] Mob: $enemy_neck 24094 has been buffed.
+[Info   : Unity Log] 02/28/2021 18:49:02: Spawned Neck x 3
+
+[Info   :TrialsofOdin] Mob 24095 hasn't been buffed.
+[Info   :TrialsofOdin] Not Boss, Mob: $enemy_greyling 24095 Level: 5
+[Info   :TrialsofOdin] Mob: $enemy_greyling 24095 has been buffed.
+[Info   : Unity Log] 02/28/2021 18:49:02: Spawned Greyling x 1
+
+[Info   : Unity Log] 02/28/2021 18:49:04: Placed locations in zone -4,-4  duration 0 ms
+
+[Info   : Unity Log] 02/28/2021 18:49:04: Placed locations in zone -4,-1  duration 4,9953 ms
+
+[Info   : Unity Log] 02/28/2021 18:49:04: Placed locations in zone -4,1  duration 0 ms
+
+[Info   : Unity Log] 02/28/2021 18:49:04: Placed locations in zone -4,2  duration 4,9969 ms
+
+[Info   : Unity Log] 02/28/2021 18:49:05: Placed locations in zone -4,4  duration 3,9968 ms
+
+[Info   : Unity Log] 02/28/2021 18:49:05: We are here
+
+[Info   : Unity Log] 02/28/2021 18:49:05: We are here
+
+[Info   :TrialsofOdin] Mob 26210 hasn't been buffed.
+[Info   :TrialsofOdin] Not Boss, Mob: $enemy_deer 26210 Level: 8
+[Info   :TrialsofOdin] Mob: $enemy_deer 26210 has been buffed.
+[Info   : Unity Log] 02/28/2021 18:49:09: Spawned Deer x 1
+
+[Info   : Unity Log] 02/28/2021 18:49:15: Destroying valkyrie
+
+[Info   : Unity Log] 02/28/2021 18:49:15: Setting selected recipe -1
+
+[Info   : Unity Log] 02/28/2021 18:49:15: UI Group status changed root = True
+
+[Info   : Unity Log] 02/28/2021 18:49:15: UI Group status changed Player = True
+
+[Info   : Unity Log] 02/28/2021 18:49:37: Setting selected recipe -1
+
+[Info   : Unity Log] 02/28/2021 18:49:37: UI Group status changed root = True
+
+[Info   : Unity Log] 02/28/2021 18:49:37: UI Group status changed Player = True
+
+[Info   : Unity Log] 02/28/2021 18:49:42: Setting selected recipe -1
+
+[Info   : Unity Log] 02/28/2021 18:49:47: DiscoverClosestLocation
+
+[Info   : Unity Log] 02/28/2021 18:49:47: Found location of type Eikthyrnir
+
+[Info   : Unity Log] 02/28/2021 18:50:12: Setting selected recipe -1
+
+[Info   : Unity Log] 02/28/2021 18:50:12: UI Group status changed root = True
+
+[Info   : Unity Log] 02/28/2021 18:50:12: UI Group status changed Player = True
+
+[Info   : Unity Log] 02/28/2021 18:50:25: Setting selected recipe -1
+
+[Info   : Unity Log] 02/28/2021 18:50:25: UI Group status changed root = True
+
+[Info   : Unity Log] 02/28/2021 18:50:25: UI Group status changed Player = True
+
+[Info   :TrialsofOdin] Mob 26270 hasn't been buffed.
+[Info   :TrialsofOdin] Not Boss, Mob: $enemy_deer 26270 Level: 8
+[Info   :TrialsofOdin] Mob: $enemy_deer 26270 has been buffed.
+[Info   :TrialsofOdin] Mob 26271 hasn't been buffed.
+[Info   :TrialsofOdin] Not Boss, Mob: $enemy_deer 26271 Level: 8
+[Info   :TrialsofOdin] Mob: $enemy_deer 26271 has been buffed.
+[Info   : Unity Log] 02/28/2021 18:50:40: Spawned Deer x 2
+
+[Info   :TrialsofOdin] Mob 26272 hasn't been buffed.
+[Info   :TrialsofOdin] Not Boss, Mob: $enemy_greyling 26272 Level: 8
+[Info   :TrialsofOdin] Mob: $enemy_greyling 26272 has been buffed.
+[Info   : Unity Log] 02/28/2021 18:50:40: Spawned Greyling x 1
+
+[Info   : Unity Log] 02/28/2021 18:50:41: Placed locations in zone -5,-4  duration 15,9854 ms
+
+[Info   : Unity Log] 02/28/2021 18:50:41: Placed locations in zone -5,1  duration 0,9993 ms
+
+[Info   : Unity Log] 02/28/2021 18:50:41: Placed locations in zone -5,2  duration 8,9931 ms
+
+[Info   : Unity Log] 02/28/2021 18:51:03: Starting respawn
+
+[Warning: Unity Log] 02/28/2021 18:51:03: Local player destroyed
+
+[Info   : Unity Log] 02/28/2021 18:51:03: tip:$loadscreen_tip18
+
+[Info   :TrialsofOdin] Mob: $enemy_boar 24088 has already been buffed.
+[Info   :TrialsofOdin] Mob: $enemy_boar 24089 has already been buffed.
+[Info   : Unity Log] 02/28/2021 18:51:13: Stoped music meadows at 4131993
+
+[Info   : Unity Log] 02/28/2021 18:51:13: Resumed music meadows at 4131993
+
+[Info   : Unity Log] 02/28/2021 18:51:17: Player 2172983495 wants to open Player_tombstone(Clone)   im: 2172983495
+
+[Info   : Unity Log] 02/28/2021 18:51:17: Setting selected recipe -1
+
+[Info   : Unity Log] 02/28/2021 18:51:17: UI Group status changed root = True
+
+[Info   : Unity Log] 02/28/2021 18:51:17: UI Group status changed Player = True
+
+[Info   : Unity Log] 02/28/2021 18:51:22: Player 2172983495 wants to open Player_tombstone(Clone)   im: 2172983495
+
+[Info   : Unity Log] 02/28/2021 18:51:22: Setting selected recipe -1
+
+[Info   : Unity Log] 02/28/2021 18:51:22: UI Group status changed root = True
+
+[Info   : Unity Log] 02/28/2021 18:51:22: UI Group status changed Player = True
+
+[Info   : Unity Log] 02/28/2021 18:51:28: Setting selected recipe -1
+
+[Info   : Unity Log] 02/28/2021 18:51:31: Setting selected recipe -1
+
+[Info   : Unity Log] 02/28/2021 18:51:31: UI Group status changed root = True
+
+[Info   : Unity Log] 02/28/2021 18:51:31: UI Group status changed Player = True
+
+[Info   :TrialsofOdin] Mob: $enemy_boar 24088 has already been buffed.
+[Info   :TrialsofOdin] Mob: $enemy_boar 24089 has already been buffed.
+[Info   :TrialsofOdin] Mob: $enemy_boar 24088 has already been buffed.
+[Info   :TrialsofOdin] Mob: $enemy_boar 24089 has already been buffed.
+[Info   : Unity Log] 02/28/2021 18:52:26: Placed locations in zone 2,5  duration 0 ms
+
+[Info   :TrialsofOdin] Mob: $enemy_neck 24090 has already been buffed.
+[Info   : Unity Log] 02/28/2021 18:52:44: Queue unlock msg:$msg_newmaterial:$item_resin
+
+[Info   : Unity Log] 02/28/2021 18:52:59: Im still nto the owner
+
+[Info   : Unity Log] 02/28/2021 18:52:59: Im still nto the owner
+
+[Info   : Unity Log] 02/28/2021 18:53:00: Im still nto the owner
+
+[Info   : Unity Log] 02/28/2021 18:53:00: Im still nto the owner
+
+[Info   : Unity Log] 02/28/2021 18:53:00: Im still nto the owner
+
+[Info   : Unity Log] 02/28/2021 18:53:00: Im finally the owner
+
+[Info   : Unity Log] 02/28/2021 18:53:00: Queue unlock msg:$msg_newmaterial:$item_wood
+
+[Info   : Unity Log] 02/28/2021 18:53:00: Queue unlock msg:$msg_newrecipe:$item_club
+
+[Info   : Unity Log] 02/28/2021 18:53:00: Queue unlock msg:$msg_newrecipe:$item_torch
+
+[Info   :TrialsofOdin] Mob: $enemy_neck 24090 has already been buffed.
+[Info   : Unity Log] 02/28/2021 18:53:07: Queue unlock msg:$msg_newmaterial:$item_stone
+
+[Info   : Unity Log] 02/28/2021 18:53:07: Queue unlock msg:$msg_newrecipe:$item_axe_stone
+
+[Info   : Unity Log] 02/28/2021 18:53:07: Queue unlock msg:$msg_newrecipe:$item_hammer
+
+[Info   : Unity Log] 02/28/2021 18:53:08: Setting selected recipe 0
+
+[Info   : Unity Log] 02/28/2021 18:53:08: UI Group status changed root = True
+
+[Info   : Unity Log] 02/28/2021 18:53:08: UI Group status changed Player = True
+
+[Info   : Unity Log] 02/28/2021 18:53:11: Setting selected recipe 1
+
+[Info   : Unity Log] 02/28/2021 18:53:13: Setting selected recipe 0
+
+[Info   : Unity Log] 02/28/2021 18:53:23: Im still nto the owner
+
+[Info   : Unity Log] 02/28/2021 18:53:23: Im still nto the owner
+
+[Info   : Unity Log] 02/28/2021 18:53:23: Im still nto the owner
+
+[Info   : Unity Log] 02/28/2021 18:53:23: Im finally the owner
+
+[Info   :TrialsofOdin] Mob: $enemy_boar 24088 has already been buffed.
+[Info   :TrialsofOdin] Mob: $enemy_boar 24089 has already been buffed.
+[Info   : Unity Log] 02/28/2021 18:53:26: Queue unlock msg:$msg_newitem:$item_raspberries
+
+[Info   : Unity Log] 02/28/2021 18:53:36: Setting selected recipe 2
+
+[Info   : Unity Log] 02/28/2021 18:53:36: UI Group status changed root = True
+
+[Info   : Unity Log] 02/28/2021 18:53:36: UI Group status changed Player = True
+
+[Info   : Unity Log] 02/28/2021 18:53:38: Setting selected recipe 0
+
+[Info   : Unity Log] 02/28/2021 18:53:40: Setting selected recipe 1
+
+[Info   : Unity Log] 02/28/2021 18:53:41: Queue unlock msg:$msg_newitem:$item_axe_stone
+
+[Error  :Crafting with Containers] Invalid state reached! You might want to report this to the mod developer.
+When removing 5 of $item_wood, amount of resources left to remove was still 5
+Containers: 0. Players: 1.
+Removed 5 "Wood". Touched 0 inventories
+
+[Error  :Crafting with Containers] Invalid state reached! You might want to report this to the mod developer.
+When removing 4 of $item_stone, amount of resources left to remove was still 4
+Containers: 0. Players: 1.
+Removed 4 "Stone". Touched 0 inventories
+
+[Info   : Unity Log] 02/28/2021 18:53:41: Setting selected recipe 2
+
+[Info   : Unity Log] 02/28/2021 18:53:56: Setting selected recipe 0
+
+[Info   : Unity Log] 02/28/2021 18:53:56: UI Group status changed root = True
+
+[Info   : Unity Log] 02/28/2021 18:53:56: UI Group status changed Player = True
+
+[Info   : Unity Log] 02/28/2021 18:53:59: Queue unlock msg:$msg_newitem:$item_hammer
+
+[Info   : Unity Log] 02/28/2021 18:53:59: Queue unlock msg:$msg_newpiece:$piece_repair
+
+[Info   : Unity Log] 02/28/2021 18:53:59: Queue unlock msg:$msg_newpiece:$piece_firepit
+
+[Info   : Unity Log] 02/28/2021 18:53:59: Queue unlock msg:$msg_newpiece:$piece_woodstack
+
+[Info   : Unity Log] 02/28/2021 18:53:59: Queue unlock msg:$msg_newpiece:$piece_stonepile
+
+[Info   : Unity Log] 02/28/2021 18:53:59: Queue unlock msg:$msg_newpiece:$piece_cookingstation
+
+[Info   : Unity Log] 02/28/2021 18:53:59: Queue unlock msg:$msg_newpiece:$piece_workbench
+
+[Error  :Crafting with Containers] Invalid state reached! You might want to report this to the mod developer.
+When removing 3 of $item_wood, amount of resources left to remove was still 3
+Containers: 0. Players: 1.
+Removed 3 "Wood". Touched 0 inventories
+
+[Error  :Crafting with Containers] Invalid state reached! You might want to report this to the mod developer.
+When removing 2 of $item_stone, amount of resources left to remove was still 2
+Containers: 0. Players: 1.
+Removed 2 "Stone". Touched 0 inventories
+
+[Info   : Unity Log] 02/28/2021 18:53:59: Setting selected recipe 2
+
+[Info   : Unity Log] 02/28/2021 18:54:00: Setting selected recipe 1
+
+[Info   :TrialsofOdin] Mob: $enemy_neck 15555 has already been buffed.
+[Info   :TrialsofOdin] Mob: $enemy_neck 15556 has already been buffed.
+[Info   :TrialsofOdin] Mob: $enemy_boar 20609 has already been buffed.
+[Info   :TrialsofOdin] Mob: $enemy_neck 20610 has already been buffed.
+[Info   :TrialsofOdin] Mob: $enemy_greyling 20611 has already been buffed.
+[Info   : Unity Log] 02/28/2021 18:54:28: Setting selected recipe 0
+
+[Info   : Unity Log] 02/28/2021 18:54:28: UI Group status changed root = True
+
+[Info   : Unity Log] 02/28/2021 18:54:28: UI Group status changed Player = True
+
+[Info   : Unity Log] 02/28/2021 18:54:32: Queue unlock msg:$msg_newitem:$item_club
+
+[Error  :Crafting with Containers] Invalid state reached! You might want to report this to the mod developer.
+When removing 6 of $item_wood, amount of resources left to remove was still 6
+Containers: 0. Players: 1.
+Removed 6 "Wood". Touched 0 inventories
+
+[Info   : Unity Log] 02/28/2021 18:54:32: Setting selected recipe 0
+
+[Info   :TrialsofOdin] Mob 29505 hasn't been buffed.
+[Info   :TrialsofOdin] Not Boss, Mob: $enemy_greyling 29505 Level: 3
+[Info   :TrialsofOdin] Mob: $enemy_greyling 29505 has been buffed.
+[Info   : Unity Log] 02/28/2021 18:54:37: Spawned Greyling x 1
+
+[Info   :TrialsofOdin] Mob: $enemy_neck 24090 has already been buffed.
+[Info   : Unity Log] 02/28/2021 18:54:40: UI Group status changed MenuRoot = False
+
+[Info   : Unity Log] 02/28/2021 18:54:46: ZNet Shutdown
+
+[Info   : Unity Log] 02/28/2021 18:54:46: clone 50
+
+[Info   : Unity Log] 02/28/2021 18:54:46: Sending disconnect msg
+
+[Warning: Unity Log] 02/28/2021 18:54:46: Local player destroyed
+
+[Info   : Unity Log] 02/28/2021 18:54:47: ZNet OnDestroy
+
+[Info   : Unity Log] 02/28/2021 18:54:47: Net scene destroyed
+
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+[Info   : Unity Log] 02/28/2021 18:54:48: Initializing world generator seed: ( 0 )   menu:True  worldgen version:1
+
+[Info   : Unity Log] 02/28/2021 18:54:48: Using mountain distance: 1000
+
+[Info   : Unity Log] 02/28/2021 18:54:48: Render threading mode:MultiThreaded
+
+[Info   : Unity Log] 02/28/2021 18:54:48: Steam initialized, persona:MrStoneface
+
+[Info   : Unity Log] 02/28/2021 18:54:48: Audioman already exist, destroying self
+
+[Info   : Unity Log] 02/28/2021 18:54:48: Checking for installed DLCs
+
+[Info   : Unity Log] 02/28/2021 18:54:48: DLC:beta installed:False
+
+[Info   : Unity Log] 02/28/2021 18:54:50: UI Group status changed Menu = True
+
+[Info   : Unity Log] 02/28/2021 18:54:51: Stoped music meadows at 4006935
+
+[Info   : Unity Log] 02/28/2021 18:54:56: Steam manager on destroy
+
